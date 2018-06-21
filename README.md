@@ -1,4 +1,5 @@
 # algorithm
-- 現行chooseAnswer2が早い
-- しかしまだsortを自分で実装できていない
-- pi20M、pi200Mは自分でダウンロード
+- chooseAnswer3が完成
+- しかし結果ありきのコード
+- 値が乱数でなければ成り立たない
+
